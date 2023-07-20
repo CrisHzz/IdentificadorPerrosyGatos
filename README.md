@@ -1,2 +1,2 @@
-# IdentificadorVacasyCaballos
-Proyecto de un identificador de vacas y caballos con tensorflow en python.
+# IdentificadorPerrosyGatos
+Proyecto de un identificador de perros y gatos con tensorflow en python.
